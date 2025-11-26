@@ -2,4 +2,4 @@
 venv/
 
 # Bytecode files
-__pycache__/
+__pycache__/.DS_Store
